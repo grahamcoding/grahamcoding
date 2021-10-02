@@ -1,11 +1,4 @@
-Hi, I’m @grahamcoding!
-<br>
-I’m interested in ...Full Stack Development!
-<br>
-I’m currently learning ...HTML/CSS/Javascript
-<br>
-I’m looking to collaborate on ...New projects!
-<br>
+My name is Daniel Graham, I'm a Full Stack Developer in training. I'm looking to expand my skillset, and make waves where I can.
 
 Reach me @
 <br>
