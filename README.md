@@ -1,4 +1,6 @@
-My name is Daniel Graham, I'm a Full Stack Developer in training. I'm looking to expand my skillset, and make waves where I can.
+My name is Daniel Graham, I'm a Front End focused Full Stack Developer. I'm looking to expand my skillset, and make waves where I can.
+
+I speak HTML, CSS, Javascript, Bootstrap!
 
 Reach me @
 <br>
