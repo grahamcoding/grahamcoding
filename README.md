@@ -1,6 +1,4 @@
-My name is Daniel Graham, I'm a Front End focused Full Stack Developer. I'm looking to expand my skillset, and make waves where I can.
-
-I work in React, Bootstrap, JS, CSS and HTML, but I'm always working on learning more!
+My name is Daniel Graham, I'm a Front End focused Full Stack Developer. I work in the MERN stack!
 
 Reach me @
 <br>
