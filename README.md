@@ -1,10 +1,10 @@
-My name is Daniel Graham, I'm a Front End focused Full Stack Developer. I work in the MERN stack!
+My name is Daniel Graham, I'm a Software Developer, with experience in Python and Javascript.
+
+Currently working on LLM and AI projects and expanding my portfolio!
 
 Reach me @
 <br>
 Email - dgraham.sprint@gmail.com
-<br>
-Twitter - @grahamcoding
 <br>
 LinkedIn - https://www.linkedin.com/in/grahamdaniel/
 
