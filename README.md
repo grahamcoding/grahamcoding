@@ -1,6 +1,4 @@
-My name is Daniel Graham, I'm a Software Developer, with experience in Python and Javascript.
-
-Currently working on LLM and AI projects and expanding my portfolio!
+My name is Daniel Graham, I'm a Software Developer, with experience in Python, Java and Javascript.
 
 Reach me @
 <br>
