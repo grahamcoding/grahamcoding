@@ -1,4 +1,4 @@
-My name is Daniel Graham, I'm a Software Developer, with experience in Python, Java and Javascript.
+My name is Daniel Graham, I'm a Software Developer, with experience in Python, Java, Lua and Javascript.
 
 Reach me @
 <br>
