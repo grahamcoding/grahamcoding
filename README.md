@@ -1,40 +1,70 @@
-Hello!
-My name is Daniel Graham. 👋
+# Hello, I’m Daniel Graham 👋
 
-I’m a software developer finishing a B.S. in Software Development (2026) with a minor in Computer Information Systems. My coding practice so far focuses on web development, frontend interaction, and backend logic, and I enjoy tackling challenges with a practical mindset. After nine years of experience in sales, training, and operations, I’m working on a full transition into software development to build attractive, intutive pieces of software that solve real problems and make cleaner, more maintainable code in the background.
+I’m a full-stack web developer and recent B.S. Software Development graduate with a minor in Computer Information Systems. My background combines technical development skills with nearly a decade of professional experience in sales, operations, customer relationship management, and employee training through my work with [Frito-Lay](https://www.fritolay.com).
 
-My main technical focus is on web development and data-driven applications, with experience in:
-JavaScript, HTML, CSS, Java, Javascript, SQL/MySQL, and Python.
+After years of working directly with business operations, performance metrics, and customer-facing processes, I became increasingly interested in the technology and systems behind the work. That interest led me to pursue software development, where I’ve focused on building practical, user-focused applications that solve real problems, feel responsive and improve workflows.
 
-📌 Featured Projects
+My technical experience includes full-stack web development, frontend UI design, backend logic, SQL databases, object-oriented programming, and secure coding practices. I’ve worked with JavaScript, React, Java, Python, PHP, SQL/MySQL, HTML, and CSS through both academic coursework and personal projects.
 
-Chips – Salty Snack Sales Tool (React)
-A React-based web app originally designed as a tool for planning and visualizing product displays. It demonstrates component-driven UI design and client-side logic using JavaScript.
-🔗 https://github.com/grahamcoding/Chips
+I enjoy building software with a balance of usability, maintainability, and business value in mind. My projects often focus on data visualization, workflow organization, and creating clean, intuitive user experiences.
 
-CSD-420 – Advanced Java Programming Projects (School Projects)
-A collection of Java applications focused on object-oriented design, modular programming, and structured workflows developed in coursework.
-🔗 https://github.com/grahamcoding/csd-420
+## 📌 Featured Projects
 
-🧠 Skills & Technologies
+### Moffat Bay Lodge Full Stack Website (Javascript/JSP/Bootstrap/MySQL)
 
-Frontend: HTML, CSS, JavaScript, React
-Backend / OOP: Java
-Databases: SQL/MySQL fundamentals
-Tools: Git & GitHub, Linux/Windows/Android/MacOS , debugging and documentation
+A collaborative full-stack web application designed for managing reservations, bookings, and customer interactions for a fictional lodge business. The project focused on frontend usability, backend integration, database interaction, and team-based software development practices.
 
-💡 What I’m Working On
+🔗 [Moffat Bay Project Repository](https://github.com/grahamcoding/Moffat-Bay)
 
-Right now I’m focused on strengthening my:
-CSS layout and responsive design skills
-JavaScript logic for real-world applications
-SQL queries and basic backend interaction
+### Chips – Salty Snack Sales Tool (React)
 
-📫 Let’s Connect
+A React-based web application designed as a sales tool for salesperson planning, as well as presenting to customers with visual detail and sales metrics. The project demonstrates component-driven UI development, JavaScript logic, and data-focused design concepts.
 
-LinkedIn: https://www.linkedin.com/in/grahamdaniel/
+🔗 [Chips Repository](https://github.com/grahamcoding/Chips)
 
-Email: dgraham.sprint@gmail.com
+### Herby's – Front End User-Focused Website (React)
+
+A clean and modern designed website built in react for a local restaurant. Modern component built design with customer focus in mind.
+
+🔗 [CSD-420 Repository](https://github.com/grahamcoding/Herbys)
+
+## 🧠 Skills and Technologies
+
+**Frontend:**
+HTML, CSS, JavaScript, React.
+
+**Backend / Programming:**
+Java, Python, PHP.
+
+**Databases:**
+SQL, MySQL.
+
+**Tools & Platforms:**
+Git, GitHub, Linux, Windows, Android, macOS, debugging, documentation.
+
+**Fun Projects**
+Exploring FPGA Emulation Projects, Hobby game design in Lua for the Panic! Playdate.
+
+## 💡 Current Focus and Research
+
+Right now, I’m continuing to strengthen my skills in:
+
+* Full-stack web application development\
+* Java and Python
+* Responsive frontend design
+* Backend integration and database interaction
+* Cloud and AWS fundamentals
+* Cybersecurity and secure development practices
+* GenAI and LLM-related technologies
+
+## 📫 I'd love to work with you! Let’s Connect
+
+**LinkedIn:**
+[linkedin.com/in/grahamdaniel](https://www.linkedin.com/in/grahamdaniel/)
+
+**Email:**
+[dgraham.sprint@gmail.com](mailto:dgraham.sprint@gmail.com)
+
 
 <!---
 grahamcoding/grahamcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
