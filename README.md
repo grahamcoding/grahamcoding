@@ -42,8 +42,8 @@ SQL, MySQL.
 **Tools & Platforms:**
 Git, GitHub, Linux, Windows, Android, macOS, debugging, documentation.
 
-**Fun Projects**
-Exploring FPGA Emulation Projects, Hobby game design in Lua for the Panic! Playdate.
+**Fun Side Projects:**
+Exploring FPGA Emulation, Hobby game design in Lua for the Panic! Playdate.
 
 ## 💡 Current Focus and Research
 
