@@ -20,13 +20,15 @@ A collaborative full-stack web application designed for managing reservations, b
 
 A React-based web application designed as a sales tool for salesperson planning, as well as presenting to customers with visual detail and sales metrics. The project demonstrates component-driven UI development, JavaScript logic, and data-focused design concepts.
 
+🔗 [Chips Deployed Demo Site](https://pensive-bhaskara-e1f37d.netlify.app/) 
 🔗 [Chips Repository](https://github.com/grahamcoding/Chips)
 
 ### Herby's – Front End User-Focused Website (React)
 
 A clean and modern designed website built in react for a local restaurant. Modern component built design with customer focus in mind.
 
-🔗 [CSD-420 Repository](https://github.com/grahamcoding/Herbys)
+🔗 [Herby's Deployed Demo Site](https://vigorous-fermat-841ec6.netlify.app/)
+🔗 [Herby's Repository](https://github.com/grahamcoding/Herbys)
 
 ## 🧠 Skills and Technologies
 
